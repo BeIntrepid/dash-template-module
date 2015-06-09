@@ -1,4 +1,7 @@
 {
+  "name": "Dash-TemplateModule",
+  "version": "0.0.1",
+  "description": "Empty template ready to be used for building modules. Includes a gulp build workflow.",
   "jspm": {
     "main": "index",
     "format": "register",
