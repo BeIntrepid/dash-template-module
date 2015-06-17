@@ -10,5 +10,5 @@ if(validBumpTypes.indexOf(bump) === -1) {
 
 module.exports = {
   bump: bump,
-  localLinkName : 'github:BeIntrepid/Dash-templateModule'
+  localLinkName : 'github:BeIntrepid/dash-templateModule'
 };
